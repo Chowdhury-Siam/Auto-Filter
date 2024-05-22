@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://telegra.ph/file/30c593b8e4209fb034b33.jpg" alt="Royal-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  ROYAL FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+𝕽𝖔𝖞𝖆𝖑+𝕱𝖎𝖑𝖙𝖊𝖗+𝕭𝖔𝖙!)
 </p>
 
 ## Main Feature 
@@ -179,18 +179,10 @@ Edit info.py with variables as given below then run bot
 <hr>
 
 
-## Thanks to 
- - <b>Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mayuri-Chan For His Awesome [Library](https://github.com/Mayuri-Chan/pyrofork)
- - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ)
- - Thanks To [Eva Marie](https://t.me/TeamEvamaria)
- - Thanks To All Everyone In This Journey</b>
-
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01)
-
-<b>[Note To A So Called Dev](https://telegram.dog/vj_botz): 
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Royal_Beast_X)
+ 
 
 Fork the repo and edit as per your needs.</b>
 
